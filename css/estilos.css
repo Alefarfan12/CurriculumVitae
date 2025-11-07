@@ -1,0 +1,37 @@
+/* css/estilos.css */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 40px;
+  background-color: #4a5a49;
+  color: #000000;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #ffffff;
+}
+
+h2 {
+  color: #f9fcff;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
